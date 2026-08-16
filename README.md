@@ -48,6 +48,12 @@ The interactive Tableau dashboard presents the main findings of the analysis.
 
 [Explore the interactive Tableau dashboard on Tableau Public](https://public.tableau.com/app/profile/vanessa.negreiros/viz/Cyclistic_Bike_Share_Usage_Patterns/Painel1)
 
+## Deliverables
+
+- [Executive Case Study](Business%20Analytics%20Case%20Study.pdf)
+- [Full Case Study](Cyclistic%20Bike-Share%20Case%20Study.pdf)
+- [Explore the interactive Tableau dashboard on Tableau Public](https://public.tableau.com/app/profile/vanessa.negreiros/viz/Cyclistic_Bike_Share_Usage_Patterns/Painel1)
+
 ## Tools
 
 - R
@@ -58,7 +64,3 @@ The interactive Tableau dashboard presents the main findings of the analysis.
 - lubridate
 - ggplot2
 - Tableau
-
-## Project Report
-
-[View the complete case study](Cyclistic%20Bike-Share%20Case%20Study.pdf)
