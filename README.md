@@ -59,4 +59,4 @@ The interactive Tableau dashboard presents the main findings of the analysis.
 
 ## Project Report
 
-The complete case study is available in this repository as a PDF.
+[View the complete case study](Cyclistic%20Bike-Share%20Case%20Study.pdf)
