@@ -46,7 +46,7 @@ The interactive Tableau dashboard presents the main findings of the analysis.
 
 ![Cyclistic Dashboard](cyclistic-dashboard.png)
 
-[View the interactive Tableau dashboard](https://public.tableau.com/app/profile/vanessa.negreiros/viz/Cyclistic_Bike_Share_Usage_Patterns/Painel1)
+[Explore the interactive Tableau dashboard on Tableau Public](https://public.tableau.com/app/profile/vanessa.negreiros/viz/Cyclistic_Bike_Share_Usage_Patterns/Painel1)
 
 ## Tools
 
