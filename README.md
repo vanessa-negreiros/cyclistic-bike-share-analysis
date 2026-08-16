@@ -52,7 +52,6 @@ The interactive Tableau dashboard presents the main findings of the analysis.
 
 - [Executive Case Study](Business%20Analytics%20Case%20Study.pdf)
 - [Full Case Study](Cyclistic%20Bike-Share%20Case%20Study.pdf)
-- [Explore the interactive Tableau dashboard on Tableau Public](https://public.tableau.com/app/profile/vanessa.negreiros/viz/Cyclistic_Bike_Share_Usage_Patterns/Painel1)
 
 ## Tools
 
